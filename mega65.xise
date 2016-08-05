@@ -178,11 +178,11 @@
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="47"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="36"/>
     </file>
-    <file xil_pn:name="precomp/charrom.vhdl" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="vhdl/charrom.vhdl" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="51"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="34"/>
     </file>
-    <file xil_pn:name="precomp/kickstart.vhdl" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="vhdl/kickstart.vhdl" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="52"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="33"/>
     </file>
@@ -194,7 +194,7 @@
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="67"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="2"/>
     </file>
-    <file xil_pn:name="precomp/version.vhdl" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="vhdl/version.vhdl" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="68"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="32"/>
     </file>
